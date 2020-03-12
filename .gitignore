@@ -54,3 +54,6 @@ kubectl-pipelines
 
 .idea
 binaries
+
+null
+.vagrant
